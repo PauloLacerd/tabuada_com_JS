@@ -1,0 +1,31 @@
+body{
+    font: normal 18px Arial;
+    background-color: aqua;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.425);
+    text-align: center;
+}
+
+input[type=button]{
+    font: normal 13pt Arial;
+}
+
+select{
+    font: normal 13pt Arial;
+}
+
+input[type=number]{
+    width: 80px;
+    padding: 5px;
+}
